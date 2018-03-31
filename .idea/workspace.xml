@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdbedc2a-9779-405d-9e51-3081bea1cd92" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/code.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/education.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/projects.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/resume.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/skills.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/responsiveApp.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/responsiveApp.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/w3css.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/w3css.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="757">
-              <caret line="124" column="7" selection-start-line="124" selection-start-column="7" selection-end-line="124" selection-end-column="7" />
+            <state relative-caret-position="105">
+              <caret line="7" column="66" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -304,8 +295,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="757">
-          <caret line="124" column="7" selection-start-line="124" selection-start-column="7" selection-end-line="124" selection-end-column="7" />
+        <state relative-caret-position="105">
+          <caret line="7" column="66" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
         </state>
       </provider>
     </entry>
